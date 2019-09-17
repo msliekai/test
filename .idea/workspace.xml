@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="976" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="PropertiesComponent">
   <component name="ChangeListManager">
     <list default="true" id="2187a259-f714-4f34-9d3d-95b179d5a3f1" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -78,6 +85,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
